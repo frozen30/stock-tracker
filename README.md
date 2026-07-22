@@ -1,5 +1,7 @@
 # Module 06 Lab — Testing Spring Boot Applications
 
+![CI](https://github.com/frozen30/stock-tracker/actions/workflows/ci.yml/badge.svg)
+
 ## Objective
 Write unit tests for `StockServiceImpl` using Mockito and slice tests for `StockController`
 using `@WebMvcTest` and `MockMvc`. All application code is provided — this lab is entirely
